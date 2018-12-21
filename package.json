@@ -1,0 +1,29 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Eat a burger App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mra-abrahamson/Eat-Da-Burger.git"
+  },
+  "keywords": [
+    "08-week",
+    "burger"
+  ],
+  "author": "Matthew Abrahamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mra-abrahamson/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/mra-abrahamson/Eat-Da-Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
